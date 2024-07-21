@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VreemdePiesang/LoRaDeviceTracker/static/css/main.672fed03.css",
+    "main.js": "/VreemdePiesang/LoRaDeviceTracker/static/js/main.6e855744.js",
+    "static/js/453.e85dff33.chunk.js": "/VreemdePiesang/LoRaDeviceTracker/static/js/453.e85dff33.chunk.js",
+    "index.html": "/VreemdePiesang/LoRaDeviceTracker/index.html",
+    "main.672fed03.css.map": "/VreemdePiesang/LoRaDeviceTracker/static/css/main.672fed03.css.map",
+    "main.6e855744.js.map": "/VreemdePiesang/LoRaDeviceTracker/static/js/main.6e855744.js.map",
+    "453.e85dff33.chunk.js.map": "/VreemdePiesang/LoRaDeviceTracker/static/js/453.e85dff33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.672fed03.css",
+    "static/js/main.6e855744.js"
+  ]
+}
