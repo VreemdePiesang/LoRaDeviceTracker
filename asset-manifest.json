@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/lora-device-tracker/static/css/main.6d6c9d3b.css",
-    "main.js": "/lora-device-tracker/static/js/main.1331470c.js",
+    "main.css": "/lora-device-tracker/static/css/main.7eff19eb.css",
+    "main.js": "/lora-device-tracker/static/js/main.5548816d.js",
     "static/media/spritesheet.svg": "/lora-device-tracker/static/media/spritesheet.a4e0eb7ad904a4858361.svg",
     "index.html": "/lora-device-tracker/index.html",
-    "main.6d6c9d3b.css.map": "/lora-device-tracker/static/css/main.6d6c9d3b.css.map",
-    "main.1331470c.js.map": "/lora-device-tracker/static/js/main.1331470c.js.map"
+    "main.7eff19eb.css.map": "/lora-device-tracker/static/css/main.7eff19eb.css.map",
+    "main.5548816d.js.map": "/lora-device-tracker/static/js/main.5548816d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d6c9d3b.css",
-    "static/js/main.1331470c.js"
+    "static/css/main.7eff19eb.css",
+    "static/js/main.5548816d.js"
   ]
 }
