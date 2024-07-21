@@ -1,0 +1,50 @@
+.lora-device-tracker {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  .map-container {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .data-display {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .loading, .error, .no-data {
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .error {
+    color: #d9534f;
+  }
